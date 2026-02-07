@@ -1,10 +1,13 @@
 Basic G.K. Quiz 🧠
-Project Description
+
+Project Description:-
+
 This is a simple Basic General Knowledge Quiz web application built using HTML, CSS, and JavaScript. The quiz displays a question with multiple-choice options and allows the user to start the quiz by clicking a button. The project demonstrates basic DOM manipulation, event handling, and styling using vanilla web technologies.
 
 Note: This project is currently incomplete and represents an early-stage implementation.
 
-Technologies Used
+Technologies Used:-
+
 HTML5 – Structure of the quiz interface
 
 CSS3 – Styling and layout
@@ -12,32 +15,33 @@ CSS3 – Styling and layout
 JavaScript (Vanilla) – Logic, event handling, and dynamic content updates
 
 Features Implemented:-
-Start button to begin the quiz.
+* Start button to begin the quiz.
 
 Dynamic display of:
 
-Question text
+* Question text
 
-Multiple-choice options
+* Multiple-choice options
 
-Button text changes from START THE QUIZ to NEXT
+* Button text changes from START THE  QUIZ to NEXT
 
-Hidden form that appears after starting the quiz
+* Hidden form that appears after starting the quiz
 
-Responsive cursor interactions for buttons
+* Responsive cursor interactions for buttons
 
-Project Structure
+Project Structure:-
 .
 ├── index.html
 ├── quiz.css
 ├── quiz.js
 └── README.md
-How It Works
-The quiz page initially displays a heading and a START THE QUIZ button.
 
-The quiz form is hidden using CSS (display: none).
+How It Works:-
+1. The quiz page initially displays a heading and a START THE QUIZ button.
 
-When the user clicks the start button:
+2. The quiz form is hidden using CSS (display: none).
+
+3. When the user clicks the start button:
 
 The quiz form becomes visible
 
@@ -45,52 +49,55 @@ The first question and options are displayed
 
 The button text changes to NEXT
 
-Additional styling is applied to the button
+4. Additional styling is applied to the button
 
 Sample Question Implemented
-Question:
+
+Question:-
 Who is known as the Missile Man of India?
 
 Options:
 
-Mahatma Gandhi
+i) Mahatma Gandhi
 
-A. P. J. Abdul Kalam
+ii) A. P. J. Abdul Kalam
 
-Akshay Kumar
+iii) Akshay Kumar
 
-Known Limitations
-Only one question is implemented
+Known Limitations:-
 
-No score calculation
+* Only one question is implemented
 
-No answer validation
+* No score calculation
 
-No navigation between multiple questions
+* No answer validation
 
-Radio buttons are not grouped using name attribute
+* No navigation between multiple questions
 
-HTML contains duplicated structure (to be cleaned up)
+* Radio buttons are not grouped using name attribute
 
-Future Improvements
-Add multiple questions using arrays or objects
+Future Improvements that I am going to do:-
 
-Implement score tracking
+1. Add multiple questions using arrays or objects
 
-Add answer validation and feedback
+2. Implement score tracking
 
-Improve UI and responsiveness
+3. Add answer validation and feedback
 
-Fix HTML structure and semantics
+4. Improve UI and responsiveness
 
-Add quiz completion summary
+5. Fix HTML structure and semantics
 
-How to Run
-Download or clone the project files
+6. Add quiz completion summary
 
-Open index.html in any modern web browser
+How to Run:-
 
-Click START THE QUIZ to begin
+1. Download or clone the project files
 
-Author
-This project was created as a learning exercise to practice front-end web development concepts.
+2. Open index.html in any modern web browser
+
+3. Click START THE QUIZ to begin
+
+Author:-
+
+This project was created by me as a learning exercise to practice front-end web development concepts during my learning phase but had to stop due to exams. I will complete it after my exams end in march.
