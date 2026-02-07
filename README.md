@@ -104,3 +104,11 @@ How to Run:-
 Author:-
 
 This project was created by me as a learning exercise to practice front-end web development concepts during my learning phase but had to stop due to exams. I will complete it after my exams end in march.
+The links to files are:-
+Html:-
+https://github.com/ITXCHI002/nidhi/issues/4#issue-3263192542
+CSS:-
+https://github.com/ITXCHI002/nidhi/issues/5#issue-3263193172
+JS:-
+https://github.com/ITXCHI002/nidhi/issues/6#issue-3263193939
+
