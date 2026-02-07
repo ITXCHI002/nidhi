@@ -32,8 +32,11 @@ Dynamic display of:
 Project Structure:-
 .
 ├── index.html
+
 ├── quiz.css
+
 ├── quiz.js
+
 └── README.md
 
 How It Works:-
