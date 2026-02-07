@@ -21,8 +21,11 @@ Click START THE QUIZ to begin.
 ## Project Structure
 
 ├── index.html
+
 ├── quiz.css
+
 ├── quiz.js
+
 └── README.md
 
 ## How It Works
